@@ -1,6 +1,6 @@
 #Central Command Urgent Order
 [color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
-█ ▀█     █ Sponsored by Nanotrasen
+█ ▀█     █ Invalid without stamp
 ──────────────────────────────────────
 
 [head=0]Urgent Order[/head]
