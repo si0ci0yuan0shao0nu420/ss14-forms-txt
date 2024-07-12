@@ -1,5 +1,5 @@
 [color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
-█ ▀█     █ Sponsored by Nanotrasen
+█ ▀█     █ Invalid without stamp
 ──────────────────────────────────────
 
 [head=0]Termination of contract[/head]
@@ -15,11 +15,11 @@ Position: [color=#002AAF]Security Officer[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [head=3]Effective Date[/head]
-Termination Date: Immediantly
+Termination Date: Immediantly, without notice period
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [head=3]Final Compensation[/head]
-Final Payment: [color=#002AAF]Severance Package and Accrued Benefits[/color]
+Final Payment: [color=#002AAF]Denied by Central Command[/color]
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 [head=3]Return of Company Property[/head]
