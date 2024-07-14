@@ -1,19 +1,29 @@
 # Access Request Form
-                            [color=#1b487e]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-                                        [head=3]NanoTrasen[/ head]
+[color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personnel Form[/head]
+█ ▀█     █ 
+Invalid without Signature and stamp of department head
+──────────────────────────────────────
 
-[head=2][color=blue]NanoTrasen[/color] Access Request Form[/head]
+[head=0][color=blue]NanoTrasen Access Request Form[/color][/head]
 
-[bold]FILL EVERYTHING OUT BEFORE STAMPING!!!!!![/bold]
+[bold]Please complete all fields before submission.[/bold]
 
-[bold]Name: [/bold][color=red]Enter Your Full Name [/color]
-[bold]Gender: [/bold][color=red]Male/Female/Other/Wish not to state [/color]
-[bold]Age: [/bold][color=red]Enter Your Age [/color]
-[bold]Access: [/bold][color=red]Specify the Access you like, Stamp if needed. Multiple can be requested if needed[/color]
-[bold]Reason: [/bold][color=red]Provide a Brief Explanation for Your Access Request [/color]
+[head=3]Employee Details[/head]
+- [bold]Name:[/bold] [color=red]Enter Your Full Name[/color]  
+- [bold]Gender:[/bold] [color=red]Male / Female / Other / Wish not to state[/color]  
+- [bold]Age:[/bold] [color=red]Enter Your Age[/color]  
+- [bold]Current Job Title:[/bold] [color=red]Enter Your Current Job Title[/color]  
+- [bold]Department:[/bold] [color=red]Enter Your Current Department[/color]  
+
+[head=3]Access Request Details[/head]
+- [bold]Requested Access:[/bold] [color=red]Specify the Access You Are Requesting[/color]  
+- [bold]Reason:[/bold] [color=red]Provide a Brief Explanation for Your Access Request[/color]
+
+[head=3]Signature[/head]
+By signing below, you acknowledge that the information provided is accurate and understand the responsibilities associated with your access.
+
+──────────────────────────────────────
+
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to NanoTrasen[/head]
