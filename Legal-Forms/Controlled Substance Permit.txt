@@ -1,6 +1,7 @@
 # Controlled Substance Permit
 [color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personel Form[/head]
-█ ▀█     █ Invalid without Signature and stamp by CMO
+█ ▀█     █ 
+Invalid without Signature and stamp by CMO
 ──────────────────────────────────────
 [head=0]Controlled Substances Permit[/head]
 
@@ -27,3 +28,11 @@ This permit must be stamped and signed by the head of the department listed to b
 - This permit is valid for the rest of the shift from the date of issuance.
 - [color=#AAAAAA]This permission can be revoked at any time by the issuing authority or their successor.
 - Abusing granted permissions may result in disciplinary actions, including termination of employment under NT Handbook §16-8.7c.[/color]
+
+[head=3]Signature[/head]
+By signing below, you acknowledge that the information provided is accurate and understand the responsibilities associated with your permit.
+
+──────────────────────────────────────
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]
