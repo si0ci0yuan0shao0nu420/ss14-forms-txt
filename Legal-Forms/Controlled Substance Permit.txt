@@ -1,24 +1,29 @@
 # Controlled Substance Permit
-[color=#1b67a5]█▄ █ ▀█▀    [head=3]Controlled Subtances Permit[/head]
-█ ▀█     █        [color=red]This document invalid unless stamped[/color][/color]
-──────────────────────────────────────────
-This permit is to be used to issue exceptions to controlled substance policy to specified personnel as allowed under NT Space Law §1-5.1
+[color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personel Form[/head]
+█ ▀█     █ Invalid without Signature and stamp by CMO
+──────────────────────────────────────
+[head=0]Controlled Substances Permit[/head]
 
-Recipient name:   [color=#002AAF]Sample Person[/color]
-               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Permit Reason:     [color=#002AAF]Sample Reason[/color]
-               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-The department/roles listed already have access to the item they are listed next to. Where a role is listed instead of a department, the head of that department must still give permission. [bold]Non-heads cannot give permission for restricted substances.[/bold]
-[bold][color=red]This permit must be stamped by the head of the department listed in order to be valid.[/color][/bold]
-[head=3]Granted Subtance:[/head]
-\[  ]\[[color=#5b97bc]Chemists[/color]/[color=#c96dbf]Science[/color]] Pyrotechnics/Explosives
-\[  ]\[[color=#c96dbf]Science[/color]] Toxins
-\[  ]\[[color=#5b97bc]Medical[/color]] Chloral Hydrate, Impedrezene, Ipecac, Pax
-\[  ]\[[color=#5b97bc]Chemists[/color]] Desoxyephedrine and Ephedrine
-\[  ]\[[bold]Captain Only[/bold]] Other:
-    [color=#002AAF]Sample Drug[/color]
-‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[color=#AAAAAA]This permission can be revoked at any time by the individual who granted it or the next in succesion.
-This document is not valid unless stamped by the listed head.
-Abusing permissions granted to you by command officers is not recommended.
-Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c[/color]
+This permit authorizes exceptions to controlled substance policies under NT Space Law §1-5.1 for designated personnel.
+
+[head=3]Recipient Information[/head]
+Recipient Name: [color=#002AAF]Enter Full Name[/color]
+Role: [color=#002AAF]Enter Job Title[/color]
+
+[head=3]Permit Details[/head]
+Permit Reason: [color=#002AAF]Brief Explanation of Permit Reason[/color]
+
+[head=3]Granted Substances[/head]
+- [ ] [color=#5b97bc]Pyrotechnics/Explosives[/color] - [color=#c96dbf]Chemists[/color]/[color=#c96dbf]Science[/color]
+- [ ] [color=#c96dbf]Toxins[/color] - [color=#c96dbf]Science[/color]
+- [ ] [color=#5b97bc]Chloral Hydrate, Impedrezene, Ipecac, Pax[/color] - [color=#5b97bc]Medical[/color]
+- [ ] [color=#5b97bc]Desoxyephedrine and Ephedrine[/color] - [color=#5b97bc]Chemists[/color]
+- [ ] [color=#002AAF]Specify Other Substance[/color] - [bold]Captain Only[/bold]
+
+[head=3]Approval[/head]
+This permit must be stamped and signed by the head of the department listed to be valid. Only department heads can authorize access to restricted substances.
+
+[head=3]Validity and Compliance[/head]
+- This permit is valid for the rest of the shift from the date of issuance.
+- [color=#AAAAAA]This permission can be revoked at any time by the issuing authority or their successor.
+- Abusing granted permissions may result in disciplinary actions, including termination of employment under NT Handbook §16-8.7c.[/color]
