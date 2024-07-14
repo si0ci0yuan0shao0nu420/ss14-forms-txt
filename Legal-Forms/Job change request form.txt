@@ -1,20 +1,27 @@
-# Job change request form
-                            [color=#1b487e]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-                                        [head=3]NanoTrasen[/ head]
+# Job Change Request Form
+[color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personel Form[/head]
+█ ▀█     █ Invalid without Signature and stamp
+──────────────────────────────────────
 
-[head=2][color=blue]NanoTrasen[/color] Job Switch Request Form[/head]
+[head=2][color=blue]NanoTrasen[/color] Job Change Request Form[/head]
 
-[bold]FILL EVERYTHING OUT BEFORE STAMPING!!!!!![/bold]
+[bold]FILL EVERYTHING OUT BEFORE SUBMISSION!!!!!![/bold]
 
-[bold]Name: [/bold][color=red]Enter Your Full Name [/color]
-[bold]Gender: [/bold][color=red]Male/Female/Other/Wish not to state [/color]
-[bold]Age: [/bold][color=red]Enter Your Age [/color]
-[bold]Old Job: [/bold][color=red]Your old job[/color]
-[bold]New Job: [/bold][color=red]Your new Job you like to switch to, Stamp if needed.[/color]
-[bold]Reason: [/bold][color=red]Reason for switching jobs.[/color]
+[head=3]Employee Details[/head]
+[bold]Name: [/bold][color=red]Enter Your Full Name [/color]  
+[bold]Current Job Title: [/bold][color=red]Enter Your Current Job Title [/color]  
+[bold]Department: [/bold][color=red]Enter Your Current Department [/color]  
+[bold]Gender: [/bold][color=red]Male/Female/Other/Wish not to state [/color]  
+[bold]Age: [/bold][color=red]Enter Your Age [/color]  
+
+[head=3]Requested Job Details[/head]
+[bold]Requested Job Title: [/bold][color=red]Enter the Job Title You Are Requesting [/color]  
+[bold]Requested Department: [/bold][color=red]Enter the Department You Are Requesting [/color]  
+[bold]Reason for Job Change: [/bold][color=red]Provide a Brief Explanation for Your Job Change Request [/color]
+
+[bold]Thank you for your attention to this matter.[/bold]
+Sign below please.
+
+──────────────────────────────────────
+
+[head=1]Glory to Nanotrasen[/head]
