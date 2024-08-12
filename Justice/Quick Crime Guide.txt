@@ -1,0 +1,58 @@
+# Quick Crime Guide
+[color=#641327]█▄ █ ▀█▀    [head=3]NT Justice Department[/head]
+█ ▀█     █        Quick Crime Sentencing Memo[/color]
+───────────────────────────────────
+Subject: NAME
+……………………………………………………………………………………………
+X-01 Violent Crime
+[bullet]101 [  ] Animal Cruelty (3 mins)[/bullet]
+[bullet]201 [  ] Manslaughter (8 mins)[/bullet]
+[bullet]301 [  ] Murder (Capital)[/bullet]
+……………………………………………………………………………………………
+X-02 Property Crime
+[bullet]102 [  ] Theft (2 mins)[/bullet]
+[bullet]202 [  ] Grand Theft (8 mins)[/bullet]
+……………………………………………………………………………………………
+X-03 Organized Crime
+[bullet]203 [  ] Black Marketeering (6 mins)[/bullet]
+[bullet]303 [  ] Terrorism (Capital)[/bullet]
+……………………………………………………………………………………………
+X-04 Criminal Sabotage
+[bullet]204 [  ] Sabotage (6 mins)[/bullet]
+[bullet]304 [  ] Grand Sabotage (Capital)[/bullet]
+……………………………………………………………………………………………
+X-05 Psyonic Crime
+[bullet]205 [  ] Mindbreak (5 mins)[/bullet]
+[bullet]305 [  ] Decorporealisation (Capital)[/bullet]
+……………………………………………………………………………………………
+206 [  ] Assult (5 mins)
+……………………………………………………………………………………………
+207 [  ] Abuse of power (5 mins)
+……………………………………………………………………………………………
+208 [  ] Possession (up to 5 mins)
+……………………………………………………………………………………………
+X-09 Risk to others
+[bullet]209 [  ] Endangerment (4 mins)[/bullet]
+[bullet]309 [  ] Kidnapping (Capital)[/bullet]
+……………………………………………………………………………………………
+X-10 Access Crime
+[bullet]110 [  ] Tresspass (2 min)[/bullet]
+[bullet]309 [  ] Breaking and Entering (4 min)[/bullet]
+……………………………………………………………………………………………
+X-11 Protest Crime
+[bullet]111 [  ] Vandalism (2 min)[/bullet]
+[bullet]211 [  ] Rioting (4 min)[/bullet]
+[bullet]311 [  ] Sedition (Capital)[/bullet]
+……………………………………………………………………………………………
+X-12 Disobedience
+[bullet]112 [  ] Hooliganism (As necessary)[/bullet]
+[bullet]212 [  ] Contempt of Court (4 min)[/bullet]
+……………………………………………………………………………………………
+213 [  ] Perjury or False Report (3 min)
+……………………………………………………………………………………………
+X-14 Delinquency
+[bullet]214 [  ] Obstruction of Justice (2 min)[/bullet]
+[bullet]314 [  ] Sexual Harassment (Capital)[/bullet]
+──────────────────────────────────────────
+[color=#641327][head=2]Total Time:
+[bold]XX mins[/bold][/head][/color]

@@ -1,0 +1,28 @@
+# Final Sentence
+[color=#4e0041]███░███░░░░██░░░░[/color]
+[color=#4e0041]░██░████░░░██░░░░[/color]                [head=3][head=2]N[/head]ano[head=2]T[/head]ransen[/head]
+[color=#4e0041]░░█░██░██░░██░█░░[/color]            [head=3]Official Document[/head]
+[color=#4e0041]░░░░██░░██░██░██░[/color] 
+[color=#4e0041]░░░░██░░░████░███[/color] 
+[color=#4e0041]█░============================================░█[/color]
+                [color=#4e0041][bold]Official Justice Department Document[/bold][/color]
+                                          [color=#4e0041][bold]Final Sentence[/bold][/color]
+[color=#4e0041]█░============================================░█[/color]
+                         [bold]Criminal[/bold]:                                   [italic] NAME [/italic]
+       [bold]Responsible For Sentencing[/bold]:               [italic] NAME [/italic]
+[color=#4e0041]█░============================================░█[/color]
+
+[bold]This paper sentences (name and job of the criminal) to (the final sentence) for the next crime/s: 
+
+[head=3][color=#4e0041](Name of the crime)[/color][/head]
+[bold][color=#4e0041]║Sentence: [/color][/bold](write here)
+
+[head=3][color=#4e0041](Name of the crime)[/color][/head]
+[bold][color=#4e0041]║Sentence: [/color][/bold](write here)
+
+
+
+[color=#4e0041]█░============================================░█[/color] 
+                  [italic]Not Valid Unless Signed And Stamped By 
+                         The Responsable For Sentencing[/italic]
+
