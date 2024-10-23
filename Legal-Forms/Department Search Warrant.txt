@@ -1,0 +1,34 @@
+# Department Search Warrant
+[color=#4e0041]█▄ █ ▀█▀    [head=3]Justice Department Form[/head]
+█ ▀█     █        
+[color=red]This document invalid unless stamped and signed by Chief Justice or Court Clerk, if both absend CO[/color][/color]
+──────────────────────────────────
+
+[color=#4e0041][head=0]Department Search Warrant[/head]
+
+This warrant gives security permission to search a particular department.
+[color=red][bold]This warrant must be approved and stamped by the dept. head of the department to be searched [italic]or[/italic] the highest ranking avaliable command (often Captain or HoP).[/bold][/color]
+
+Requesting agent:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Target:   [color=#002AAF]Sample Department[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Reason:   [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+If illegal items are found in the searched department they will be confiscated and the owner of these items may be detained at the officers discretion. [bold]Legal items may not be taken in a search.[/bold]
+
+[head=3]Conditions[/head]
+1. The search must be conducted in accordance with NT Space Law §1-2.2.
+2. Only authorized personnel may conduct the search.
+3. Any evidence found must be documented and reported immediately.
+4. This document is not valid unless stamped by at least one of the listed required personnel.
+5. This form follows NT Space Law §1-2.2
+
+[head=3]Signature[/head]
+By signing below, you acknowledge that the search is authorized under NT regulations and agree to adhere to all specified conditions.
+Those who abuse granted permission can be fined up to 5000 spesos pursuant NT Handbook §16-8.7c
+
+──────────────────────────────────
+[bold]Thank you for your compliance.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

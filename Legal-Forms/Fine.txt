@@ -1,0 +1,37 @@
+# Citation
+[color=blue]█▄ █ ▀█▀ [head=10]Nanotrasen Citation[/head]
+█ ▀█     █ Invalid without stamp
+──────────────────────────────────────
+
+[head=0]Notice of Fine[/head]
+
+[head=3]Issued to:[/head]
+Name: [color=#002AAF]Jane Smith[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role: [color=#002AAF]Medical Officer[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Violation Details[/head]
+[color=#002AAF]Violation of Company Policy > Apperance standards > Section 5 > Respect and Consideration[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Fine Amount[/head]
+Amount: [color=#002AAF]1000 Spesos[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Payment Instructions[/head]
+Please remit payment within 30 days to avoid further penalties. Payment can be made via the following methods:
+
+- Credit Transfer to Account [color=#002AAF]NT-ACCT-4536[/color]
+- In-person at any NanoTrasen financial office
+- Online via the NanoTrasen Payment Portal
+
+[head=3]Dispute Process[/head]
+If you believe this fine has been issued in error, you have the right to dispute it within 14 days. To file a dispute, please contact Central Command at [color=#002AAF]disputes@nanotrasen.com[/color] or visit the Central Command office with supporting documentation.
+
+[head=3]Acknowledgment of Receipt[/head]
+By signing below, you acknowledge receipt of this fine notice and understand the terms outlined above.
+
+[bold]Thank you for your prompt attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]
