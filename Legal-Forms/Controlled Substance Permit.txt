@@ -1,0 +1,39 @@
+# Controlled Substance Permit
+[color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personel Form[/head]
+█ ▀█     █ 
+Invalid without Signature and stamp by CMO
+──────────────────────────────────────
+
+[color=#5b97bc][head=0]Controlled Substances Permit[/head]
+
+This permit authorizes exceptions to controlled substance policies under NT Space Law §1-5.1 for designated personnel.
+
+[head=3]Recipient Information[/head]
+Recipient Name: [color=#002AAF]Enter Full Name[/color]
+Role: [color=#002AAF]Enter Job Title[/color]
+
+[head=3]Permit Details[/head]
+Permit Reason: [color=#002AAF]Brief Explanation of Permit Reason[/color]
+
+[head=3]Granted Substances[/head]
+- [ ] [color=#5b97bc]Pyrotechnics/Explosives[/color] - [color=#c96dbf]Chemists[/color]/[color=#c96dbf]Science[/color]
+- [ ] [color=#c96dbf]Toxins[/color] - [color=#c96dbf]Science[/color]
+- [ ] [color=#5b97bc]Chloral Hydrate, Impedrezene, Ipecac, Pax[/color] - [color=#5b97bc]Medical[/color]
+- [ ] [color=#5b97bc]Desoxyephedrine and Ephedrine[/color] - [color=#5b97bc]Chemists[/color]
+- [ ] [color=#002AAF]Specify Other Substance[/color] - [bold]Captain Only[/bold]
+
+[head=3]Approval[/head]
+This permit must be stamped and signed by the head of the department listed to be valid. Only department heads can authorize access to restricted substances.
+
+[head=3]Validity and Compliance[/head]
+- This permit is valid for the rest of the shift from the date of issuance.
+- [color=#AAAAAA]This permission can be revoked at any time by the issuing authority or their successor.
+- Abusing granted permissions may result in disciplinary actions, including termination of employment under NT Handbook §16-8.7c.[/color]
+
+[head=3]Signature[/head]
+By signing below, you acknowledge that the information provided is accurate and understand the responsibilities associated with your permit.
+
+──────────────────────────────────────
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

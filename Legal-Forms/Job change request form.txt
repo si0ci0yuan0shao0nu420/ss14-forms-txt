@@ -1,0 +1,29 @@
+# Job Change Request Form
+[color=#1b67a5]█▄ █ ▀█▀ [head=10]Head of Personel Form[/head]
+█ ▀█     █ 
+Invalid without signature and stamp by deparment head
+──────────────────────────────────────
+
+[head=2][color=blue]NanoTrasen[/color] Job Change Request Form[/head]
+
+[bold]Please complete all fields before submission.[/bold]
+
+[head=3]Employee Details[/head]
+[bold]Name: [/bold][color=red]Enter Your Full Name [/color]  
+[bold]Current Job Title: [/bold][color=red]Enter Your Current Job Title [/color]  
+[bold]Department: [/bold][color=red]Enter Your Current Department [/color]  
+[bold]Gender: [/bold][color=red]Male/Female/Other/Wish not to state [/color]  
+[bold]Age: [/bold][color=red]Enter Your Age [/color]  
+
+[head=3]Requested Job Details[/head]
+[bold]Requested Job Title: [/bold][color=red]Enter the Job Title You Are Requesting [/color]  
+[bold]Requested Department: [/bold][color=red]Enter the Department You Are Requesting [/color]  
+[bold]Reason for Job Change: [/bold][color=red]Provide a Brief Explanation for Your Job Change Request [/color]
+
+[head=3]Signature[/head]
+By signing below, you acknowledge that the information provided is accurate and understand the responsibilities associated with your job change request.
+
+──────────────────────────────────────
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

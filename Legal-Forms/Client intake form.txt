@@ -1,0 +1,25 @@
+# Client intake form
+                               ◥[bold]CC[/bold]◣ [bolditalic]Clever Corporation [/bolditalic]◥[bold]CC[/bold]◣
+[head=1]────────────────────[/head]
+[head=1]        CLIENT INTAKE FORM[/head]
+
+[bolditalic]Disclaimer: Thank you for your interest in being a client of Clever Corporation. This form is used to collect information about new clients and is for internal purposes only. The information you provide is confidential and will be treated accordingly.
+[head=1]────────────────────[/head]
+[head=2]                 PERSONAL INFORMATION[/head]
+[head=1]────────────────────[/head]
+[bold]Name:
+
+Date Of Birth:
+
+Marital Status:
+
+Current Station Of Service:
+[head=1]────────────────────[/head]
+[head=2]                       CONTACT DETAILS[/head]
+[head=1]────────────────────[/head]
+[bolditalic]How can we contact you?
+
+[/bolditalic]Fax:
+Radio:
+[head=1]────────────────────[/head]
+[bolditalic]Signature:
