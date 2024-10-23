@@ -1,0 +1,28 @@
+#Mantis report
+[color=purple]█▄ █ ▀█▀ [head=3]Epistemics Department Report[/head]
+█ ▀█     █
+──────────────────────────────────────
+
+[head=0]NT Epistemics Dep. Psionic-User Record[/head]
+
+You have been found to have psionic powers:
+[color=red][head=3]Signing this document is a formal requirement by the Epistemics Department, refusing to sign this doscument is a breach of NT Space Law §3-0-4, §2-0-9 and §2-1-3.[/color][/head]
+[color=#aaaaaa]Failure to comply with the psionic mantis regardless of alert code is a breach of NT Space Law §3-0-4, §2-0-9 and §2-1-3 will result in forceful arrest by mantis and security followed by but not limited to, painful treament, forceful mindbreaking and quarantine by the Epistemics Department, also known as processing. Processing is a non lethal procedure.
+Being part of the Security department, does not grand immunity and securtiy officers are expected to hand themselves in to the Epistemics Department.[/color]
+
+[head=3]Subject Details[/head]
+[bold]Name: [/bold][color=red]Enter Full Name[/color]
+[bold]Profession: [/bold][color=red]Enter Profession[/color]
+[bold]Psychic Powers: [/bold][color=red]Describe Psychic Powers[/color]
+
+[bold]This document must be signed and returned promptly to the mantis.[/bold]
+
+──────────────────────────────────────
+
+By signing below, you acknowledge the accuracy of the information provided and understand the consequences of failing to comply with this report.
+
+──────────────────────────────────────
+
+[bold]Thank you for your cooperation.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]
