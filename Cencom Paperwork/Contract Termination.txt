@@ -1,0 +1,33 @@
+[color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
+█ ▀█     █ Invalid without stamp
+──────────────────────────────────────
+
+[head=0]Termination of contract[/head]
+
+[head=3]To:[/head]
+Name: [color=#002AAF]John Doe[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Position: [color=#002AAF]Security Officer[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Reason for Termination[/head]
+[color=#002AAF]Violation of company security protocols and endangerment of personnel[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Effective Date[/head]
+Termination Date: Immediantly, without notice period
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Final Compensation[/head]
+Final Payment: [color=#002AAF]Denied by Central Command[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Return of Company Property[/head]
+Please return all company property including access cards, equipment, and documents immediately.
+
+[head=3]Acknowledgment of Receipt[/head]
+By signing below, you acknowledge receipt of this termination notice and understand the terms outlined above.
+
+[bold]Thank you for your service.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

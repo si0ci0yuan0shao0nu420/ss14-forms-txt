@@ -1,0 +1,37 @@
+#Central Command Warning
+[color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
+█ ▀█     █  Invalid without stamp
+──────────────────────────────────────
+
+[head=0]Notice of Formal Warning[/head]
+
+[head=3]Issued to:[/head]
+Name: [color=#002AAF]John Doe[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role: [color=#002AAF]Communications Officer[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Incident Details[/head]
+[color=#002AAF]Sending unsolicited fax spam resulting in network congestion[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Warning Details[/head]
+You are hereby formally warned for engaging in unauthorized fax transmissions, constituting spam that disrupts operations and causes network congestion. This warning serves as a reminder of your responsibility to adhere to communication protocols and respect operational boundaries.
+
+[head=3]Consequences of Further Incidents[/head]
+Further incidents of this nature may result in more severe disciplinary actions, including but not limited to:
+
+- Destruction of fax machine
+- Formal reprimand on record
+- Suspension from duties
+- Reduction in rank or privileges
+- Termination of employment
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Acknowledgment of Receipt[/head]
+By signing below, you acknowledge receipt of this formal warning and understand the terms outlined above.
+
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

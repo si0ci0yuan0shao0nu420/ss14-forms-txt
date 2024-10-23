@@ -1,0 +1,36 @@
+#Central Command Warning
+[color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
+█ ▀█     █ Invalid without stamp
+──────────────────────────────────────
+
+[head=0]Notice of Formal Warning[/head]
+
+[head=3]Issued to:[/head]
+Name: [color=#002AAF]Jane Smith[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role: [color=#002AAF]Medical Officer[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Incident Details[/head]
+[color=#002AAF]Rudeness towards colleagues and disregard for professional conduct[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Warning Details[/head]
+You are hereby formally warned for behavior that is not in line with NanoTrasen's standards of professionalism. This warning serves as a reminder of your responsibility to maintain respectful and courteous interactions with all colleagues and personnel.
+
+[head=3]Consequences of Further Incidents[/head]
+Further incidents of this nature may result in more severe disciplinary actions, including but not limited to:
+
+- Suspension from duties
+- Reduction in rank or privileges
+- Termination of employment
+- Execution
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Acknowledgment of Receipt[/head]
+By signing below, you acknowledge receipt of this formal warning and understand the terms outlined above.
+
+[bold]Thank you for your attention to this matter.[/bold]
+
+[head=1]Glory to Nanotrasen[/head]

@@ -1,0 +1,27 @@
+#Central Command Urgent Order
+[color=#009100]█▄ █ ▀█▀ [head=10]Central Command Fax[/head]
+█ ▀█     █ Invalid without stamp
+──────────────────────────────────────
+
+[head=0]Urgent Order[/head]
+
+[head=3]To:[/head]
+Security Department, [color=#002AAF]Station 14[/color]
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=3]Directive[/head]
+A rogue fax machine, identified as the source of unauthorized transmissions, is currently active on Station 14. It has been determined to be a potential security risk. Your immediate task is to locate and disable this device promptly.
+
+[head=3]Location Description[/head]
+The fax machine is reported to be in [color=#002AAF]Engineering[/color]. It is imperative that you act swiftly to prevent further unauthorized communications.
+
+[head=3]Action Required[/head]
+- Deploy security teams.
+- Confiscate and disable the fax machine upon discovery.
+- Confiscate any confidential documents.
+- Ensure no unauthorized access to the device or its contents.
+
+[head=3]Reporting[/head]
+Upon completion, report back with status and confirmation of the fax machine's neutralization.
+
+[head=1]Glory to Nanotrasen[/head]
